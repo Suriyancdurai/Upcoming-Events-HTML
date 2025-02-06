@@ -1,6 +1,6 @@
 # My HTML Project
 
-Welcome to my HTML project! This is a simple website showcasing upcoming events. You can visit the live website by clicking the link below:
+Welcome to my HTML project! This is a website showcasing upcoming events. You can visit the live website by clicking the link below:
 
 [Visit My Website](https://suriyancdurai.neocities.org/event/event)
 
